@@ -1,0 +1,41 @@
+
+hp_hu.png
+size: 520,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hp_fangsheguang
+  rotate: false
+  xy: 2, 2
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+hp_glow
+  rotate: true
+  xy: 400, 13
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+hp_glow1
+  rotate: false
+  xy: 274, 134
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+hp_kuosanquan
+  rotate: false
+  xy: 274, 8
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+hp_xialuoguang
+  rotate: false
+  xy: 426, 145
+  size: 33, 127
+  orig: 33, 127
+  offset: 0, 0
+  index: -1
